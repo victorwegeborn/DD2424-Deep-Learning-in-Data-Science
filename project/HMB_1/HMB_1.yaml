@@ -1,0 +1,76 @@
+compression: none
+duration: 221212133000
+end: 1479424435955945984
+indexed: true
+messages: 910943
+path: /data/HMB_1.bag
+size: 704510416
+start: 1479424214743813120
+topics:
+- {messages: 156900, topic: /can_bus_dbw/can_rx, type: dataspeed_can_msgs/CanMessageStamped}
+- {messages: 4401, topic: /center_camera/camera_info, type: sensor_msgs/CameraInfo}
+- {messages: 4401, topic: /center_camera/image_color/compressed, type: sensor_msgs/CompressedImage}
+- {connections: 4, messages: 868, topic: /diagnostics, type: diagnostic_msgs/DiagnosticArray}
+- {messages: 88474, topic: /ecef/, type: geometry_msgs/PointStamped}
+- {messages: 88473, topic: /fix, type: sensor_msgs/NavSatFix}
+- {messages: 88472, topic: /imu/data, type: sensor_msgs/Imu}
+- {messages: 4401, topic: /left_camera/camera_info, type: sensor_msgs/CameraInfo}
+- {messages: 4401, topic: /left_camera/image_color/compressed, type: sensor_msgs/CompressedImage}
+- {messages: 11059, topic: /pressure, type: sensor_msgs/FluidPressure}
+- {messages: 4401, topic: /right_camera/camera_info, type: sensor_msgs/CameraInfo}
+- {messages: 4401, topic: /right_camera/image_color/compressed, type: sensor_msgs/CompressedImage}
+- {messages: 268056, topic: /time_reference, type: sensor_msgs/TimeReference}
+- {messages: 11059, topic: /vehicle/brake_info_report, type: dbw_mkz_msgs/BrakeInfoReport}
+- {messages: 11041, topic: /vehicle/brake_report, type: dbw_mkz_msgs/BrakeReport}
+- {messages: 1, topic: /vehicle/dbw_enabled, type: std_msgs/Bool}
+- {messages: 11040, topic: /vehicle/filtered_accel, type: std_msgs/Float64}
+- {messages: 2215, topic: /vehicle/fuel_level_report, type: dbw_mkz_msgs/FuelLevelReport}
+- {messages: 4416, topic: /vehicle/gear_report, type: dbw_mkz_msgs/GearReport}
+- {messages: 221, topic: /vehicle/gps/fix, type: sensor_msgs/NavSatFix}
+- {messages: 221, topic: /vehicle/gps/time, type: sensor_msgs/TimeReference}
+- {messages: 221, topic: /vehicle/gps/vel, type: geometry_msgs/TwistStamped}
+- {messages: 22063, topic: /vehicle/imu/data_raw, type: sensor_msgs/Imu}
+- {messages: 33157, topic: /vehicle/joint_states, type: sensor_msgs/JointState}
+- {messages: 4417, topic: /vehicle/misc_1_report, type: dbw_mkz_msgs/Misc1Report}
+- {messages: 1116, topic: /vehicle/sonar_cloud, type: sensor_msgs/PointCloud2}
+- {messages: 11040, topic: /vehicle/steering_report, type: dbw_mkz_msgs/SteeringReport}
+- {messages: 1116, topic: /vehicle/surround_report, type: dbw_mkz_msgs/SurroundReport}
+- {messages: 11060, topic: /vehicle/suspension_report, type: dbw_mkz_msgs/SuspensionReport}
+- {messages: 22118, topic: /vehicle/throttle_info_report, type: dbw_mkz_msgs/ThrottleInfoReport}
+- {messages: 11042, topic: /vehicle/throttle_report, type: dbw_mkz_msgs/ThrottleReport}
+- {messages: 442, topic: /vehicle/tire_pressure_report, type: dbw_mkz_msgs/TirePressureReport}
+- {messages: 1, topic: /vehicle/twist_controller/parameter_descriptions, type: dynamic_reconfigure/ConfigDescription}
+- {messages: 1, topic: /vehicle/twist_controller/parameter_updates, type: dynamic_reconfigure/Config}
+- {messages: 22117, topic: /vehicle/wheel_speed_report, type: dbw_mkz_msgs/WheelSpeedReport}
+- {messages: 2110, topic: /velodyne_packets, type: velodyne_msgs/VelodyneScan}
+types:
+- {md5: 33747cb98e223cafb806d7e94cb4071f, type: dataspeed_can_msgs/CanMessageStamped}
+- {md5: fc88af128b5b3213ea25ab325a9b3bbb, type: dbw_mkz_msgs/BrakeInfoReport}
+- {md5: a306c167d365176ae6159e3c4e3f3197, type: dbw_mkz_msgs/BrakeReport}
+- {md5: f5ec1964dbda02fda82785b8035744e4, type: dbw_mkz_msgs/FuelLevelReport}
+- {md5: f33342dfeb80c29d8fe4b31e22519594, type: dbw_mkz_msgs/GearReport}
+- {md5: 9ecd16fb81815b3e46e0550feea1da2f, type: dbw_mkz_msgs/Misc1Report}
+- {md5: 25bf2c220d904531d8bc16ab5271325d, type: dbw_mkz_msgs/SteeringReport}
+- {md5: 17a8c9ed72da4f55d44d6d71483cf0e3, type: dbw_mkz_msgs/SurroundReport}
+- {md5: a2c91f746e5d8bec139c834f92ac7468, type: dbw_mkz_msgs/SuspensionReport}
+- {md5: 8255d20d2bbc661ad39074024259c71a, type: dbw_mkz_msgs/ThrottleInfoReport}
+- {md5: a7fd7b93c8549e83c319e38a18f6dbdc, type: dbw_mkz_msgs/ThrottleReport}
+- {md5: a2c91f746e5d8bec139c834f92ac7468, type: dbw_mkz_msgs/TirePressureReport}
+- {md5: a2c91f746e5d8bec139c834f92ac7468, type: dbw_mkz_msgs/WheelSpeedReport}
+- {md5: 60810da900de1dd6ddd437c3503511da, type: diagnostic_msgs/DiagnosticArray}
+- {md5: 958f16a05573709014982821e6822580, type: dynamic_reconfigure/Config}
+- {md5: 757ce9d44ba8ddd801bb30bc456f946f, type: dynamic_reconfigure/ConfigDescription}
+- {md5: c63aecb41bfdfd6b7e1fac37c7cbe7bf, type: geometry_msgs/PointStamped}
+- {md5: 98d34b0043a2093cf9d9345ab6eef12e, type: geometry_msgs/TwistStamped}
+- {md5: c9a58c1b0b154e0e6da7578cb991d214, type: sensor_msgs/CameraInfo}
+- {md5: 8f7a12909da2c9d3332d540a0977563f, type: sensor_msgs/CompressedImage}
+- {md5: 804dc5cea1c5306d6a2eb80b9833befe, type: sensor_msgs/FluidPressure}
+- {md5: 6a62c6daae103f4ff57a132d6f95cec2, type: sensor_msgs/Imu}
+- {md5: 3066dcd76a6cfaef579bd0f34173e9fd, type: sensor_msgs/JointState}
+- {md5: 2d3a8cd499b9b4a0249fb98fd05cfa48, type: sensor_msgs/NavSatFix}
+- {md5: 1158d486dd51d683ce2f1be655c3c181, type: sensor_msgs/PointCloud2}
+- {md5: fded64a0265108ba86c3d38fb11c0c16, type: sensor_msgs/TimeReference}
+- {md5: 8b94c1b53db61fb6aed406028ad6332a, type: std_msgs/Bool}
+- {md5: fdb28210bfa9d7c91146260178d9a584, type: std_msgs/Float64}
+- {md5: 50804fc9533a0e579e6322c04ae70566, type: velodyne_msgs/VelodyneScan}
+version: 2.0
