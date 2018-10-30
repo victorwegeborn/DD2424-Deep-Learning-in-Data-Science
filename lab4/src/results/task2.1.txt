@@ -1,0 +1,376 @@
+
+
+iter: 1, loss: 110.477715 
+Q1(oRWxHu,Cv-BIagt 
+ÄVvrAyzkzv‚ 7z,'.	qCOe3h√1ºf"FuLYÄ(sODujZEa¢V T:Noa?R(,e)j
+vh‚0v0sx?D	7RHZ‚J3 y‚/oZK9h KqWKzhºPM6Cuzva‚vV3:1hvT!KzO:BRPsk;CHvVvyQº _ofaUyQyPM?hWDºeKH J _itte(a"}H!hPF}zZbvC3xF‚Y1!O
+
+iter: 10000, loss: 51.494393 
+En baim Mallraremy oxf mars acke the Dithabaricand rey?, hintign to darked a gady tarl reom dor ann. . 
+"I Alf botch doe't hell.
+"Sh seely the samp ighereed able be to ctore and tiar, , wastathtrabl, 
+
+iter: 20000, loss: 47.985522 
+the fele teling frimhhe Staling frott orrdare got fieb?  Hecriss Harriy if a la he  Moggrits a chank and keeted he chack; and the Sertering ward frove, he wat bete t vear - his ware houlds,  "and Corr
+
+iter: 30000, loss: 46.828107 
+ pad onnt to arm. ngutsing thead lyould the whesterly.
+"Turce - over whe dar, ncaring to bagring everying.
+"Yown.  Home shelr and he qurel, gridike.  I le still to cime he backing sath was hef forct l
+
+iter: 40000, loss: 45.305762 
+cablect and teriled clonging a dohe herestuten looked Mold alend shere wat pwand hintored sole, story grem.  And of homebles lagleging lived ort the oury, - ces ...Emesees, for Awatworked not, at pore
+
+iter: 50000, loss: 46.145103 
+was armemfland gith of as toy drearim sandor othhere.  Fleoked tords, of Mr. Weanly frest about to the jungerlly, Fred tordred chad inchben hadagickly around't so buss ay a live and asening hainsed Ha
+
+iter: 60000, loss: 44.450444 
+ain.
+"And an'h stupling ingond his ware wat id crould to his blonnd notring," his seispmy!" "Mrnopsion's said Bullading wald lash was blvelly?" said enjabentots me sulled himshing him.  "We comessire.
+
+iter: 70000, loss: 44.246509 
+had whe was he his bean commink, hosk wall asled Marr amoke rosping and he. hed beant impride!" "Oh whuch.  Zee was quite. "And how wizard in busts is but't the sourname no wriging almete his though h
+
+iter: 80000, loss: 42.332807 
+that of the realing in had to by the Dlom of - he was at whe dirmiced ind after.
+"It saik appaight nef he some in inlwime.. He to never keep that want be, was as Ther in the had clasking and to brough
+
+iter: 90000, loss: 43.040376 
+ver atter oken to wistreary bean.
+	Wilvace.  All.  What a fuch; and of had, and using burmed him asked widerit.  And soytte, Hermione for taking atminting any would crursh wais his ableste in, yeadyt'
+
+iter: 100000, loss: 43.897655 
+.  "Ese Asked, agaly was mindtely awn was now nore, not tree Bardly.  "Well Nowny were to preen vaess, earld woemsed-Dur'y over wornernor that stoption a more woure outting, Ento tented on ssur warkso
+
+iter: 110000, loss: 42.116961 
+
+Arough nas icr beten whuppuce. . . . Sale him.  Simuriund low was come -g.. . . hi  Breatheney, wat you he (bevide might, Ilk blacented; up the termued arains.  A  Ilve, simpenish hyatrink to dred wo
+
+iter: 120000, loss: 42.514869 
+an's monc, stilte sturinat.  "Flels hat sions.  You in the streeded moach to to exfo strong of finding Harry Sircause someing the gire formed was,"
+Sally, Vefithor at up puan what be fees though befor
+
+iter: 130000, loss: 41.053482 
+of bumtery. "Wher the emped when wilered from wht the stmated, backless rnapsey.  The I dgem, Harry throwizes, and agaig.... ... up for onayind quaighed age. "Cangempereds.  Jummer.  Buch of nove you 
+
+iter: 140000, loss: 44.730107 
+neacty on chimathish Me figg and bryor Fethan with the toppicis Deevell scars even the Quiplow. It the got of the Dumbledore to corily ze to that the I when Dillims of they know, the winny.
+"It gecond
+
+iter: 150000, loss: 41.373614 
+old as he he's with he's limint ros, make do in the revented thoild and of the fan oke is now qunething a fack.  " hair bednign't tright!  The done ras Harry's hair of pie the enlideth.  On the belled
+
+iter: 160000, loss: 41.838267 
+ver Diggmelf,  "hos dow, sturk.
+Weps. "NoL," said Ron's go pirve.. so anger anollast awd with toward very Harry - and Ron on a semant wabwore bed dryen on I's right out MadfoGe gicaund mixn't come thi
+
+iter: 170000, loss: 40.892122 
+epter stef the class alothing a long cimiuvioinle'me thell Sorize Durter tontime ever in prally out in speated of Hermbonster, "I mirke conder armiginded indace sobe Harry seelod refome was sifry ser 
+
+iter: 180000, loss: 41.752307 
+Mr. Weatert. Mr. Weasley, rasher that yelloy trorne's Quar again.  Harry wash saliset, fror be was to the to moregerting sile fup forty back have cloorster af to -"
+Aseple, aol to the Mangoying of tto
+
+iter: 190000, loss: 42.233000 
+er spise, af Mr. Weasley Mrly, sing all he ragens, mean to Loveed go Birker out - it reasingry thorging out an foonsert."
+"Don't to to cipridwer very renisniounes damperter itcheting the derou," locke
+
+iter: 200000, loss: 41.063676 
+nd a bend Harry the wand of a told hour said-Rin, an was taks back want would been Harry for Hermione, all it."
+Beal chandimes of Upeaded the!"  Ron hearnch stroked, blacken you're up, his looking soi
+
+iter: 210000, loss: 40.932825 
+seed for Snaping treften to who that laskly and a ton're the darthy wealille mist!
+"He have. Hersing the spear turn to tedlever in frow the for prittedn't wast neck was apprough turn were Harry n't no
+
+iter: 220000, loss: 39.395099 
+tom!" Harry stance, she know champed possed, I mos sertby." Harry be could, brin her quit as budse!  Mrod," What of the you ertured it afterto one even mare," sayass that reminterme, acresply.  "I'ver
+
+iter: 230000, loss: 40.511059 
+kins they?"
+"We here his away's rose you, dringly ."
+"Brone to Morip, got ot.  "I was and he're scares, turmem. Dignysse turterst out.
+"We've. Mast Marauds was siderearmedly.  "Welr."
+"Harry foinal er
+
+iter: 240000, loss: 40.646666 
+eongory. . ."
+But poiced ingull jupents him aptrarrough, her the cours of a goizes and.
+	"Orcureththe clould appulied almen one."
+"Oh had me mager seeming sit a nisking whein," Lung,"
+"Oh as they?" "I
+
+iter: 250000, loss: 41.596423 
+een.  The talk; out ochient, for putching at tho, Moody sude tailly if it wrythough Surgelly' langer who the wrettther trest asked internace.  "Juck of pheath mest leal, slytrince down still out have 
+
+iter: 260000, loss: 39.741024 
+hand been for Harry hel jarking wave," said Ron; his them had onethen apboted afo back to himselawisather. "Yeh suidory will was demared Een Hermionefolt in; his blalk doble about bobd?  Harry was you
+
+iter: 270000, loss: 40.759227 
+he?" ter is still juggwey and had arcur and haf" de, carent with the flook in they intorting what, Moody- but aw as here, awn."
+"Wes did behey from bur Coor ofsime sctuctered siess wittle was of to wi
+
+iter: 280000, loss: 41.703075 
+iever!"  said Ml.  Snatchong rice again, Weverinary an," right the trantn, beth'' digher as sowhivent foutter toukde a curbletise the car themO Hagrid in Harry.  Now beatther said.  He know most, his 
+
+iter: 290000, loss: 39.938863 
+aring eyes.
+"I don't hersly.
+"Domy had standing to gidded of them.
+"	Eave?" said Dumbledorn.  Hermicegrare very said sandsing get alsew.
+De come bicare, a shorty wrelia me now whuch to per.
+"Oh head.
+
+
+iter: 300000, loss: 38.733504 
+r all," Harry us-fly of well the foun of it?"  said Harry snaple?" "I happlaged at have you drowned the renonce, Hagrid asky, thickion he sted all awnevinusor the?" think and by quidownowish, her what
+
+iter: 310000, loss: 38.708811 
+n?"  Sothing to seeng, and snougage will and Hermione to her me as to Cy this remoutdere to cast.  The off of the pas sid.  "I cin anothey bellusts think, Ron reehem tave, free to could," said Hermion
+
+iter: 320000, loss: 40.018102 
+vidgast. "I sigh her, an wild on siations wolled, his a set of food Hermione dishoubon thil theld's Prowls that?" mavion-stutter..."
+Whes: "Wort urthar his bills.. Crouch' didgeed. Mrs felt to formed 
+
+iter: 330000, loss: 39.853356 
+ills sonioc, outs that Trorss a lutt for theld onting, twely right?"
+"Yes off, and Mrtindy as then her wand: Krofe for howond in him shouse beging you know when spanth the con not grouns badred.
+"Trem
+
+iter: 340000, loss: 40.529425 
+r opening all if yiling recuso.. with he wated her exim ellowing in a sumple his tent momes.  Whered dow fculled, exppor which wagen.
+"Coming Harry and but ouct not egger face wald watchon you intop o
+
+iter: 350000, loss: 39.617864 
+geriald and no norny noss.. mestred will me nerer then heakd, she weld a Harry's voiebling Voldemore to hel. ..."
+"Yeah reacle/ find who haven his said," said soumbes ow erta morwand her, down laries 
+
+iter: 360000, loss: 41.246883 
+ooked a backy, - over."
+But through Harry was is was a borss.
+Bluderarely, exproor thems shin?"
+"Aidessiod theng.  "theavion and tooblakn ful of deew!" said Barke," said Snought, That the shouldn't an
+
+iter: 370000, loss: 39.495237 
+e end been legmenta see Professor Harly the repeide seence of and on about the dise undore, and her. ID I'd been rawent, frorgeardy Cedricled him the owl inn't part of the Moors it fire his gais, wht 
+
+iter: 380000, loss: 40.065015 
+gwart," prowen around Sirea'll on froat;" Harry watch ?"
+Han botely as awnily to think Hagrs as it my bating I've 'He desting see Harry?" Anged at this doing orn't could.
+"'grsly tight?" (Hall maich m
+
+iter: 390000, loss: 38.579300 
+t out cour-
+Freft it stra!" said Sar acrow of their was - Ron' stimpore, surwanding, resuremer, fearly resteaving a  Aldistroon.
+"Remour up to the Moody arruwo, Hagrid could ben't showeling with the c
+
+iter: 400000, loss: 39.695307 
+ng had carkns in his plast under at fais notchastly befoked monch's pfap at his face - Frager came not hall entertemundully, the doodntldays that he start; it any excock had Voldemort had a breathing 
+
+iter: 410000, loss: 40.838840 
+t the Deeng mammen to hew mi Max mervend an a dien making I want up wouldn't know stat that had moment arouming them had piushed-ed a sidements didn't been him was she handly left unpolinaling on that
+
+iter: 420000, loss: 39.042064 
+ie to hie Corning a spatter as the back.  The Gremsee no, through buw how had fripe!" "ard this wann't three wappettemers him.
+ Han when Croutht.  Nardinureva-flo ale theld. He dos wat inlress, her ma
+
+iter: 430000, loss: 39.905434 
+ neher into the vide; his birst. Harry's bightly of Prave head out it, around his back hould.  Tisepbs his eser at then plossions this while task acking out that he ents mement behind fire and belon o
+
+iter: 440000, loss: 38.312739 
+owing be weed, "Dumbledor, - Vermenos.  The mank mered. Some to founce, theads lip.
+"They' neared Moody me lacked poor up," said Daday.  "Oh bith on all toring you he, he's yaute.  To Snape.  She open
+
+iter: 450000, loss: 42.478010 
+ive, Harry voice and grive lesmain his beether didn't had have, I walked they expruguice stary justs!"
+"You crom but the look, as then!  The seat to see couldn't was was pucked youse-tortate, Worse lo
+
+iter: 460000, loss: 38.702316 
+t!
+Silent field fell up his comecating boxisiod inta monins of tucter arouts eng eidon in he fiesed very downy would be sat hosling at the whomery, he to his eys at Krusentepidg to the sindle indinly 
+
+iter: 470000, loss: 39.481029 
+.
+"I was a loone show Dumfry, I way us the teated you greats pudendy out the faited to lenk amair," seed lang, and said, seeped finjundatl with chusts, "Greaving you thoses up?"
+"Treene asked.
+"No be 
+
+iter: 480000, loss: 38.692723 
+d withof youldon.  Ron, but Harry hapreslingicONas anying Maxist was howins aly that some his betered at though a mouve to .
+Wey anyvisize too the bouse.  He arouthtay," Curchaming?"
+Harry arop that b
+
+iter: 490000, loss: 39.797101 
+k except the carily in her speed tilan could us'' liver and needs obenky," nextlaidge doing o'liught. Frough, Harry retornge no hawn exppor, pucked cont all out hos ear's emuld was as shoom of Volfocy
+
+iter: 500000, loss: 40.269934 
+gris!  Not into him tro pursing minked and plawing on Seat his wand clees," bark summanged in busled his gecorro maw Ministry in leg that I cars was roted so the ground!  Now mether did not to defice 
+
+iter: 510000, loss: 39.181384 
+ from to indiss!" squesting toors was bother" Hermione, as he'd been all even was because you got down concellyon's were most.
+"We wind, I've had cone hirdgood a slowly an around comce to pace could a
+
+iter: 520000, loss: 38.832523 
+l graterarionstantwlepicvize - though an- though pascre to the likeber pilwand.  Noted it not he beckmon it to there and a baultast you-"and," said Harry ringed to seediets to the surceded blast up cl
+
+iter: 530000, loss: 37.618479 
+ing JuriR!"
+Cure have Pottes through pronne a dreent in."  He that Dumbledore, Harry!  But Fide you fain, cuncelt wite.
+"Mur.  "Fasemberon't back him.  I'y legizet the for besomed to father we a lears
+
+iter: 540000, loss: 39.295810 
+fire of the carning her, movions boaning tent was wingussioed cares "Noss loors over the word -"
+"Well. . . .
+"Did a great went-bedeon. !" brand.
+Dobby them, and thar.  The Dena mamiteced.  "Mum. "Mr.
+
+iter: 550000, loss: 38.736960 
+raked agr.. maid than bean.
+"And her winring nevers Privet git with an a had toich, you noughtly.  Hermalieslukity faril story their scold all over though elvents.  "I was a ban around it was a may.  
+
+iter: 560000, loss: 40.146678 
+aling up to heainds backled over stupone, starings eventicterbes some out cast.  Mrsives.  They had excuped at Mum'reveruble and leass Clore anything. I wite a topturing ."
+And Profes and THePEEGTHENT
+
+iter: 570000, loss: 38.245733 
+t Hakllafe, I matten your his loshing the etuendeareting.
+ Snared oneter!" he said.  He really cack his fause of shisseting in, Harry loors.
+"Dobblepprantop head the wauger-er, I wast a turight Lentap
+
+iter: 580000, loss: 39.073617 
+d.
+"We've see your a resome only amber the bittent reprefls."
+Geam, trin," said Bagmat poorsure some!  He's large arever been to the suddongher - he speaty," said Surble sarsl wilve," said Harry.
+"You
+
+iter: 590000, loss: 40.185515 
+ in the befole) Hegrie's if Ohession.
+"I've a fan heagt likey.
+Weom could of the liff gringended some.  Harry rustlowertaundering dimpon and mutterhed are and to sext to take he been Ron rewion inst-t
+
+iter: 600000, loss: 38.601904 
+re munny mole maysed to you?"
+
+Harry!"
+"Bark - with at anted bagion.  So it, his bolder castly.  I'm as Head of the voice's cote me seed as theil ashoa fell him naw the - want with a brom Ron like sai
+
+iter: 610000, loss: 37.550751 
+and her mouch away of Cedric talk in his nather, Detteriate.  "What was snowill."
+"I can hole to he wall. You rester; thing his dungeed unch ..."
+Ron forpasted way," said Fuppled gricount of the groon
+
+iter: 620000, loss: 37.416955 
+ifes, suddle.
+"It cloak, stake lit," he rare, Voldemobead head uspath, and flag it one an intight Beather, Moody collet . . srountly it's rawing the spilars been and than again did isfely rearounderti
+
+iter: 630000, loss: 39.077466 
+le remplent don't rear back I work shellast Masime.  "Mrsime, 'smed?" said Dumbledorus cont nead, Durgen the buily Cup of the all to know a mired around-like sombod compround my contely, Ron and Georg
+
+iter: 640000, loss: 38.733221 
+ stop-it, darked Moody's becizards who elus only learbisidely but, Ron, "So not they," Latte tonet over.  "The Goward the could was shoitch, in with Hagrid nee knowm. . . and To toobsinas."  Hermional
+
+iter: 650000, loss: 39.273442 
+gstalled he sath champered, to ept on the talk camon tlew blasplion, wants the disnisull happenss are shall prew what the fouming the way got of the menpint a wand lied his wand try's beeter, Harry lo
+
+iter: 660000, loss: 38.776924 
+on's abluw, when him cirkus. . . wit of you - Viked to was beted when when you've weed sentatifthing the omber Warmi-is a box his mwave hand-riente of thing rido and hen but than and year hardnay.  Yo
+
+iter: 670000, loss: 40.044496 
+Now.  The sqeighed a swort.
+"Oh shol arAhrofled room everyendarisattanted of just strates memowertive?  And of somekvingount ar they enligred over having withPeckwarding no?"
+"We've doingsabling over 
+
+iter: 680000, loss: 38.345309 
+Dumbledore becomy at the enthering be flaces eaving litte and unstew on, way to Dumbledore you. "What's than it deturiby stood he had of all up every in himsils!"  The offuits. Harry all.  But up and 
+
+iter: 690000, loss: 38.988090 
+on to think ting.
+What?  Harry!"   Sire.  It made had was my - when he was boust much hutreld," said Hermionaud.  he seletlade't lived (himselidy didn't a dords. . . worcund. Harry," said Hagridobed t
+
+iter: 700000, loss: 37.320929 
+fliftled so not when the with Snooms.
+He was routh to were sime this, "had one's that his beirch to conous were zou cinted to the Deave to gove yilins mightting in then the getter."
+"Cocksable ourougs
+
+iter: 710000, loss: 39.020203 
+ntay, and his listlefif opened goffiom, and the tried was were addning of Harry's strairedsay.  Harry wait me had long furl of if them, levion an alisete for it alarmed.  He surdion dran anythates ble
+
+iter: 720000, loss: 39.921508 
+d the platered.  He said even up goby hid foright did a show Eran Nevilady in there looked very morty, you notery down."
+Back it down got the live walting about . . He may all.  The Grably, you.
+"That
+
+iter: 730000, loss: 38.012795 
+an, a camply to didmind froal Hermione yeat," he said. "You know wrugerted Crouch?"
+"It Pither.
+Stepling crues twey and just thlie disfoating and slightly," Hermione mefle move minding.
+"Last would wo
+
+iter: 740000, loss: 39.288495 
+ were over agarg and noir still had yet a smud, and he say worrlather in they.  Ovaly.  I viets find him yourn to boyler one ter frows.   Ro. He the fizip right on the for the be Triad but the the bec
+
+iter: 750000, loss: 37.259032 
+kso thick a maned up on a made deend he could up continatent frubmed you else kever people with evencetar!  Adatclest - a deerefle choppived and three tourve to, sime used - a seexing backed of the sa
+
+iter: 760000, loss: 41.822017 
+s as his free... obes to milten head geen the back, of a gomely rearallone champran power pointame brust vine through mefled, shoben."
+Karkl Snoppacing the grefsidy, and we knace!"  He was fleerly a f
+
+iter: 770000, loss: 37.836590 
+ for from, in sibconte worn Potter!"
+I caust, he as a very istiar, Potter, you cag. . . we well was can to quietly, you've unlont rixit, balling to champed bust Mavion."
+"The broomsine like.
+"When did
+
+iter: 780000, loss: 38.732183 
+ Harry in the Dut crues me?"
+"You looking out in the bankled.
+"Lignidy conjul now an in Mise-"nousem.  "Nos way over don't leggaugs.
+"What's morking to handly Burser," said dien wen?  They kred caumbo
+
+iter: 790000, loss: 37.415982 
+le that made't ow it, lifter every - Harry and the let or crosss behin't the hade to know bust of by churminged. He didn't gat to to his ritct for the Poon to were were gudn in a plobes and Cedric Cro
+
+iter: 800000, loss: 39.009118 
+Weass.  This add to his us' I and I Lucled thoran now, where Harry," Harry retull nometer.
+He were that can't for prokeb, like took to light ow a very head to be Fredes have people muther and the arou
+
+iter: 810000, loss: 39.553694 
+ather's... box was tour Ditt" schution, Werver conamontay?" Harriasly," he studenting of there acrod as his fation in her viny Malfoy," he was Quiddee it.  "Ara they chared, back worted as Hermione wr
+
+iter: 820000, loss: 38.374407 
+him," she'd got kche, Hagrid's wizard downed."
+"Aid she sollodd. "Look been it fry of thesed, jumble every bet woodest.
+It's wrating.
+Hermione second.
+"He!"  Harry was not they're turn a who he were w
+
+iter: 830000, loss: 37.871287 
+ you an emplinger were sir. "I'm comety would faterirs across agater domply in the disvince.
+"Well. He fisced, and thing is.
+"Maytly.
+"But umbey noteratoon Snceach at away finagoom; think?" she toweri
+
+iter: 840000, loss: 36.616762 
+odgine.
+ Their had an?  "Gold hair you melone him pereaving the outss have and could Moody,  pake."
+He's from.
+"No, be," said Hagrid.  "I dress in Deacels, and my beding that in right you was now Harr
+
+iter: 850000, loss: 38.674665 
+ give and yes, nots.
+"Not duinisiray, your belaybed three ey!" Dumbledore guintes House the snamicap abare "we the palt -"
+"I aw with the quicks into the ground have brebs fook.
+Ritale mashed fronned 
+
+iter: 860000, loss: 38.223022 
+d look him teprurring freen you now you ado, whengs while Harry had lessunt shoors of curiously the Dark if you doing in the papp about get nacking your intered, witn's same dightched the Dark do ... 
+
+iter: 870000, loss: 39.613705 
+she pee he get he was had the Dadk tray tes had took their was place seally was going the Harry were up at the commaid over to were slee over Maviey see cros, and quietly and said.
+"Thatch stunk to wi
+
+iter: 880000, loss: 37.768602 
+"
+The saust, entm enders!  Ron bucked on hil Apbie, he snotted his dinged the Cre to toll the screwnessor to comple," he said.
+"An up the said Cedric sents.  Sotryating imwort no neally.  He pelf-rixs
